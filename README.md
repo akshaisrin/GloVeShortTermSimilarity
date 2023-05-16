@@ -1,3 +1,3 @@
 # GloVeShortTermSimilarity
 
-Utilizes the Stanford GloVe model with its pre-trained word vectors to compare two strings with a relatively high accuracy. It does have a significant runtime, but might be something to utilize for this project.
+Utilizes the Stanford GloVe model with its pre-trained word vectors to compare two strings with a relatively high accuracy. It does have a significant runtime, but might be something to utilize for this project. Also created a program that uses the Levenshtein distance algorithm for string comparisons. This has a significantly shorter runtime but a lower accuracy.
